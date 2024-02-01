@@ -1,0 +1,4 @@
+-- [FIRST_NAME],[LAST_NAME],[D1NAME],[SCHEDULED_PMT],[ZIP]
+-- [MEMBER_NBR],[LOAN_NBR],[ACCOUNT_TYPE],[Secureity_Answer_1]
+-- [Secureity_Answer_2],[Due_Date],[PRIMARY_PHONE]
+-- [SECONDARY_PHONE],[SECTION]
